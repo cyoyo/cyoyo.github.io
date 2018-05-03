@@ -22,7 +22,7 @@ tags: [blog, jekyll]
 
 ### 开始转向 Markdown
 
-前段时间了解到马克飞象 MarkDown + Evenote 笔记体系，最终下定决心将自己的笔记都 Markdown 化，原来归纳总结、读书笔记都放在 OneNote，现在就在马克飞象写然后同步到 Evernote。
+前段时间了解到马克飞象 MarkDown + Evenote 笔记体系，最终下定决心将自己的笔记都 Markdown 化，原来归纳总结、读书笔记都放在 OneNote，现在就在马克飞象写然后同步到 Evernote。<!-- more -->
 - 最直接的好处就是所有的笔记都在一起，而不是之前成 OneNote 和 Evernote 两块，查阅起来更加方便。
 - OneNote 对代码、数学公式的支持实在是太差了。
 - Office 个人版在国内的同步服务是一场灾难，不得不上企业服务。
